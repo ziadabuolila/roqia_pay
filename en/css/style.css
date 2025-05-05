@@ -393,7 +393,7 @@ svg:not(:root) {
 }
 
 .app>.about>.app-text>.company-name-app>p {
-    font-size: 35px;
+    font-size: 30px;
     color: var(--second-color);
     margin: 0;
 }
